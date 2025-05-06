@@ -71,7 +71,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JoshAdekeye/saas-landing-page.git
+git clone https://github.com/JoyOmokore/saas-landing-page.git
 cd saas-landing-page
 ```
 
